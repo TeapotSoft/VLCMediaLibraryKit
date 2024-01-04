@@ -22,7 +22,7 @@ let package = Package(
         .binaryTarget(
             name: "VLCMediaLibraryKit",
             url: "https://github.com/TeapotSoft/VLCMediaLibraryKit/releases/download/0.13.0a5/VLCMediaLibraryKit.xcframework.zip",
-            checksum: "0b8e3130eba774388755ca82f6cfc1fe2e9b69e6810d62d309ed8e9f8cab7c7f"
+            checksum: "6b78a7892b133aef1289ec7eee06921c03696b83c0cdb148399d6cca5aaf2c10"
         )
     ]
 )
